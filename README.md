@@ -1,6 +1,9 @@
 # CAEE for automated individualization of hip endoprostheses - open repository
 This repository serves as a central hub for information related to the Computer-Aided Engineering Environment (CAEE) for automated individualization of hip endoprostheses. The specific data, scripts and materials associated with the project are archived in a separate, non-public repository. Access to this private archive may be granted upon individual request. Interested persons are invited to submit a formal request for access, either by direct communication through GitHub or by sending an email to mueller@ipeg.uni-hannover.de.
 
+For more detailed information and to gain a deeper understanding of the CAEE's methodologies and applications, consult the related publications and the doctoral thesis provided with this project.
+
+
 
 <img src='Backup-Scripts/endo.png' width='150'>
 
@@ -44,9 +47,6 @@ To confirm that Rhino Compute is operational, visit `http://localhost:8081/versi
 
 To start the CAEE, run `main.py` for the standard operation mode. For a more user-friendly approach, launch the CAEE through the GUI by running `gui.py`:
 
-
-
-For more detailed information and to gain a deeper understanding of the CAEE's methodologies and applications, consult the related publications and the doctoral thesis provided with this project.
 
 
 ## Individualization Process
