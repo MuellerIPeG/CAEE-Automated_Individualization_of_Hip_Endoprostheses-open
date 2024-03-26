@@ -1,0 +1,17 @@
+pip install PyQt5
+pip install numpy
+pip install scipy
+pip install opencv-python
+pip install scikit-image
+pip install rhino3dm
+pip install -U matplotlib
+pip install matlabengine==9.13.1
+pip install numpy-stl
+pip install open3d 
+pip install pydicom
+pip install pynrrd
+pip install compute-rhino3d
+pip install itk
+
+
+https://github.com/RiccardoBiondi/FemurSegmentation

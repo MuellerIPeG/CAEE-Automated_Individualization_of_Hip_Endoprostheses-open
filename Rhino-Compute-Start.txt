@@ -1,0 +1,7 @@
+1. start the console: C:\Users\User\Documents\GitHub\compute.rhino3d\src\bin\Debug\compute.geometry
+
+
+2. check:  http://localhost:8081/version
+
+
+start main.py (oder gui.py, wenn direkt die GUI starten soll)
