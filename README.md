@@ -1,5 +1,5 @@
-# CAEE for automated individualization of hip endoprostheses
-This dataset contains multiple scripts for a Computer-Aided Engineering Environment (CAEE) for Grasshopper (plugin for Rhino), which allows the design of individualized short-shaft hip endoprostheses. In order to fulfil its operational tasks, the CAEE requires a valid licence for the Matlab (R2022b) and Rhino 7 (Plugin: Grasshopper) software packages as well as a correctly configured installation of the Python programming language.
+# CAEE for automated individualization of hip endoprostheses - open repository
+This repository serves as a central hub for information related to the Computer-Aided Engineering Environment (CAEE) for automated individualization of hip endoprostheses. The specific data, scripts and materials associated with the project are archived in a separate, non-public repository. Access to this private archive may be granted upon individual request. Interested persons are invited to submit a formal request for access, either by direct communication through GitHub or by sending an email to mueller@ipeg.uni-hannover.de.
 
 
 <img src='Backup-Scripts/endo.png' width='150'>
